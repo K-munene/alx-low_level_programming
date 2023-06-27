@@ -1,13 +1,13 @@
 #include <stdio.h>
 /**
- *
  * main - to print the size of data types
  *
  * Return: always (0)
  *
  */
 int main(void)
-{	char a;
+{
+	char a;
 	int b;
 	long int c;
 	long long int d;
@@ -21,3 +21,4 @@ int main(void)
 	return (0);
 
 }
+
