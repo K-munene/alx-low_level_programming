@@ -9,7 +9,7 @@ int main(void)
 	char c;
 
 	c = 'a';
-	while (c <= 'z'i)
+	while (c <= 'z')
 	{
 		if (c != 'q' && c != 'c')
 			putchar(c);
