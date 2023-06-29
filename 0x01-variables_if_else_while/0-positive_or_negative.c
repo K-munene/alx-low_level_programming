@@ -1,11 +1,13 @@
+#include <stdlib.h>
 #include <time.h>
+#include <stdio.h>
 /**
  * main - generate random numbers to detect -ve or +ve
  *
  * Return: always (0)
  *
  */
-int maini(void)
+int main(void)
 {
 	int n;
 
