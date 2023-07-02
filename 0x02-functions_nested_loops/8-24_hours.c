@@ -1,5 +1,7 @@
 #include "main.h"
 /**
+ * jack_bauer - print time
+ *
  * Description: print the time in min. for 24 hours clock
  *
  */
