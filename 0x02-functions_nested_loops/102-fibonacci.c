@@ -11,7 +11,7 @@ int main(void)
 
 	fibonacci[0] = 1;
 	fibonacco[1] = 2;
-	printf("%1d, %1d, ", fivonacci[0], fibonacci[1]);
+	printf("%1d, %1d, ", fibonacci[0], fibonacci[1]);
 
 	for (i = 2; i < 50; i++)
 	{
