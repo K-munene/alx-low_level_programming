@@ -3,7 +3,7 @@
 /**
  * File : 0-object_like_macro
  *
- * Description: header file
+ * Description:the header file
  */
 #define SIZE 1024
 
