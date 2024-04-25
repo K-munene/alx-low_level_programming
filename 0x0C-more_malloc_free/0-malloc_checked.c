@@ -3,4 +3,4 @@
 /**
  * malloc_checked - allocate memory using malloc
  *
- * 
+ *
