@@ -5,7 +5,7 @@
  *
  * @d: the new dog d of type struct
  */
-void print_dog(struct dog *d);
+void print_dog(struct dog *d)
 {
 	if (d)
 	{
