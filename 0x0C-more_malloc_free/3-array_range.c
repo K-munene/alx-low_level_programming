@@ -18,10 +18,10 @@ int *array_range(int min, int max)
 	if (a == NULL)
 		return (NULL);
 	for (i = 0; i < l; i++)
-		;
+
 	{
 		a[i] = min
-			;
+
 		min++;
 	}
 	return (a);
