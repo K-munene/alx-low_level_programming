@@ -5,7 +5,7 @@
  *
  * @x: first int input
  * @y: second int input
- * Description: sum x and y
+ * Description: sum up  x and y
  */
-#define SUM(x, y (x +y)
+#define SUM(x, y) (x +y)
 #endif
