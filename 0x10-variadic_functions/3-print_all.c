@@ -1,5 +1,5 @@
 #include "variadic_functions.h"
-/*
+/**
  * print_all - print any arument which is provided to
  * function
  * @format: argument specifier
