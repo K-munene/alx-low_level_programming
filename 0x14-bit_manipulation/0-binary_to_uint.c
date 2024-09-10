@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * binary_to_unit - a program that converts binary numbers
+ * binary_to_uintinary_to_unit - a program that converts binary numbers
  * to integers/decimal numbers
  *
  * @b: a character pointer to a string containing the
