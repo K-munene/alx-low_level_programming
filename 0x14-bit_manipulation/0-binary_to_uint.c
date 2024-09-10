@@ -9,7 +9,7 @@
  * Return: the converted decimal (output)
  */
 
-unsigned int binary_to_uint(const char *b)
+unsigned int binary_to_uint(const char *b);
 {
 	unsigned int len;
 	size_t i = 0;
